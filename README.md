@@ -14,7 +14,7 @@ Minha especialidade é criar experiências de produto perfeitas, desde a concep�
 
 ## Onde Compartilho Conteúdo
 Me encontre compartilhando insights, dicas e posts divertidos em:
-- Instagram: [@cronistadeproduto](https://www.instagram.com/cronistadeproduto/)
-- Ko-fi: [Compre-me um Café](https://ko-fi.com/cronistadeproduto)
+- Instagram: [@cronistadeproduto](https://www.instagram.com/cronistadeproduto/) Segue lá!
+- Ko-fi: [Contéudo e Serviços](https://ko-fi.com/cronistadeproduto) cria uma conta e me segue!!
 
 Sinta-se à vontade para se conectar e vamos conversar sobre tudo relacionado a gerenciamento de produtos e tecnologia! 🚀
