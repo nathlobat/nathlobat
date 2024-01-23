@@ -8,7 +8,7 @@ Minha especialidade é criar experiências de produto perfeitas, desde a concep�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathlobat&show_icons=true&theme=dark)
 
-## Minha Profissão e Habilidades
+### Minha Profissão e Habilidades
 - 🎯 **Product Manager/Owner:** Liderando equipes multifuncionais para entregar produtos impactantes.
 - 🔄 **Defensora do Ágil:** Implementando Scrum, Kanban e outras práticas ágeis para gerenciamento de projetos eficiente.
 - 🚀 **Entusiasta da Tecnologia:** Proficiente em várias tecnologias, com olhar atento para inovação.
