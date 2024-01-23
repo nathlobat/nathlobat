@@ -1,4 +1,4 @@
-### Hi Guys!! 👋
+### Oi gente!! tudo beleza? 👋
 
 ## Quem sou eu?🚀
 Olá! 👋 Eu sou Nathalia, uma Product Manager apaixonada por resolver problemas e entusiasta de tecnologia.
