@@ -1,9 +1,9 @@
-### Oi gente!! tudo beleza? 👋
+## Oi gente!! tudo beleza? 👋
 
-## Quem sou eu?🚀
+### Quem sou eu?🚀
 Olá! 👋 Eu sou Nathalia, uma Product Manager apaixonada por resolver problemas e entusiasta de tecnologia.
 
-## O que faço?
+### O que faço?
 Minha especialidade é criar experiências de produto perfeitas, desde a concepção até a entrega. Minha jornada envolve a combinação de criatividade, conhecimento tecnológico e metodologias ágeis.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathlobat&show_icons=true&theme=dark)
@@ -16,7 +16,7 @@ Minha especialidade é criar experiências de produto perfeitas, desde a concep�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathlobat&layout=compact&show_icons=true&theme=dark)
 
-## Onde Compartilho Conteúdo
+### Onde Compartilho Conteúdo
 Me encontre compartilhando insights, dicas e posts divertidos em:
 - Instagram: [@cronistadeproduto](https://www.instagram.com/cronistadeproduto/) Segue lá!
 - Ko-fi: [Contéudo e Serviços](https://ko-fi.com/cronistadeproduto) cria uma conta e me segue!!
