@@ -16,9 +16,3 @@ Minha especialidade é criar experiências de produto perfeitas, desde a concep�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathlobat&layout=compact&show_icons=true&theme=dark)
 
-### Onde Compartilho Conteúdo
-Me encontre compartilhando insights, dicas e posts divertidos em:
-- Instagram: [@cronistadeproduto](https://www.instagram.com/cronistadeproduto/) Segue lá!
-- Ko-fi: [Contéudo e Serviços](https://ko-fi.com/cronistadeproduto) cria uma conta e me segue!!
-
-Sinta-se à vontade para se conectar e vamos conversar sobre tudo relacionado a gerenciamento de produtos e tecnologia! 🚀
