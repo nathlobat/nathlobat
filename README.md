@@ -9,5 +9,5 @@ Minha especialidade é criar experiências de produto perfeitas, desde a concep�
 ### Minha Profissão e Habilidades
 - 🎯 **Product Manager/Owner:** Liderando equipes multifuncionais para entregar produtos impactantes.
 - 🔄 **Defensora do Ágil:** Implementando Scrum, Kanban e outras práticas ágeis para gerenciamento de projetos eficiente.
-- 🚀 **Entusiasta da Tecnologia:** Proficiente em várias tecnologias, com olhar atento para inovação.
+- 🚀 **Entusiasta da Tecnologia:** Busco entender como as soluções se conectam com a tecnologia.
 - 🎨 **Design UI/UX:** Unindo design e desenvolvimento para experiências de usuário encantadoras.
