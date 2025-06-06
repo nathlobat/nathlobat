@@ -1,7 +1,7 @@
 ## Oi gente!! tudo beleza? 👋
 
 ### Quem sou eu?🚀
-Olá! 👋 Eu sou Nathalia, uma Product Manager apaixonada por resolver problemas e entusiasta de tecnologia.
+Olá! 👋 Eu sou Nath, uma Product Manager apaixonada por resolver problemas e entusiasta de tecnologia.
 
 ### O que faço?
 Minha especialidade é criar experiências de produto perfeitas, desde a concepção até a entrega. Minha jornada envolve a combinação de criatividade, conhecimento tecnológico e metodologias ágeis.
